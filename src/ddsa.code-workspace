@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Piano"
+		},
+		{
+			"name": "Servo",
+			"path": ".."
+		},
+		{
+			"name": "Servo2",
+			"path": "..\\..\\Servo2"
+		}
+	],
+	"settings": {}
+}
